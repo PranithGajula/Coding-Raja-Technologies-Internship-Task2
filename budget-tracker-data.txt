@@ -1,0 +1,1 @@
+{"Income": [{"Category": "Job", "Amount": "50"}, {"Category": "Intrest", "Amount": "30"}], "Expenses": [{"Category": "EMI", "Amount": "10"}, {"Category": "Shopping", "Amount": "5"}]}
